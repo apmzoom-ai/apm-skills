@@ -108,7 +108,8 @@ curl -X POST https://worker.apmzoom.ai/api/v1/products/search/by-text-lite \
 | Name | `products_search_by_text_lite` |
 | Display Name | 텍스트 검색-간소화(상품 라이브러리) |
 | Method | `POST` |
-| Endpoint | `` |
+| Endpoint | `/api/v1/products/search/by-text-lite` |
+| Base URL | `https://worker.apmzoom.ai` |
 | Category | 지식 베이스 |
 | Permission | read |
 | Public | Yes |
